@@ -1,0 +1,13 @@
+title: 3/8 life crisis blog
+theme: [PaperMod]
+
+params:
+  homeInfoParams:
+    Title: "3/8 life crisis blog"
+    Content: >
+      If my self-loathing is in check there shall be some content about tech and some silly adventures.
+  ShowReadingTime: true
+
+caches:
+  images:
+    dir: :cacheDir/images
